@@ -1,0 +1,5 @@
+print("===== PROFILE =====")
+print("Name : Krish Gupta")
+print("Course : B.Sc. Computer Science")
+print("Year : Second Year")
+print("Skills : Python, DBMS, OOP, Web Tech, Linux")
